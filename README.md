@@ -58,6 +58,10 @@ Highly motivated and creative full-stack software developer, looking for opportu
 
 ### Badges
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/constantine30"><img src="https://github-readme-stats.vercel.app/api?username=constantine30&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="constantine30's GitHub stats" /></a>
