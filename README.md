@@ -27,6 +27,8 @@ Highly motivated and creative full-stack software developer, looking for opportu
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/o0o2tn5x/production/13b9c8412093e2f0cdb5495e1f59144967fa1664-512x512.jpg" width="36" height="36" alt="Cypress" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width="36" height="36" alt="Git" /></a>
+<a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="36" height="36" alt="Cypress" /></a>
 </p>
 
 
