@@ -23,10 +23,6 @@ Highly motivated and creative full-stack software developer, looking for opportu
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-
-
-
-
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width="36" height="36" alt="Git" /></a>
 <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height="36" alt="GitHub" /></a>
 
