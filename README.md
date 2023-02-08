@@ -58,7 +58,7 @@ Highly motivated and creative full-stack software developer, looking for opportu
 
 ### Badges
 
-![snake gif](https://github.com/constantine30/constantine30/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/constantine30/constantine30/blob/output/github-contribution-grid-snake.svg)
 
 
 
