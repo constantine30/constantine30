@@ -7,7 +7,6 @@ Full-Stack Software Developer
 Highly motivated and creative full-stack software developer, looking for opportunities to solve meaningful problems with code. As a recent graduate of the School of Code, I am confident that the intensive 16-week bootcamp taught me how to work in a high- performance agile tech team to create and deploy robust software.
 
 * 🌍  I'm based in Coventry.
-* ✉️  You can contact me at [banciu.constantin@gmail.com](mailto:banciu.constantin@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  “The time you enjoy wasting, is not wasted time.” John Lennon
 
@@ -25,10 +24,6 @@ Highly motivated and creative full-stack software developer, looking for opportu
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width="36" height="36" alt="Git" /></a>
 <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height="36" alt="GitHub" /></a>
-
-
-
-
 </p>
 
 ### Testing, Authentication & Deployment
@@ -50,6 +45,8 @@ Highly motivated and creative full-stack software developer, looking for opportu
 <a href="https://www.miro.com" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png" width="36" height="36" alt="Miro" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.blackmagicdesign.com/uk/products/davinciresolve/whatsnew" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1024px-DaVinci_Resolve_17_logo.svg.png" width="36" height="36" alt="DaVinci Resolve" /></a>
+<a href="https://www.trello.com" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/trello_macos_bigsur_icon_189616.png" width="36" height="36" alt="Trello" /></a>
+<a href="https://www.slack.com" target="_blank" rel="noreferrer"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2b/b0/51/2bb051de-2771-ce27-72ed-3ad16d226655/electron.png/1200x630bb.png" width="36" height="36" alt="Slack" /></a>
 
 </p>
 
