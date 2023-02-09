@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-My name is Constantin Banciu.
+Constantin Banciu.
 =========================================================================================================================================
 
 Full-Stack Software Developer
@@ -56,7 +56,7 @@ Highly motivated and creative full-stack software developer, looking for opportu
 
 <p align="left"> <a href="https://discord.com/users/zexte#3285" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/constantine30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/constantin-banciu-97460611b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ConstantinB100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### My Pet
 
 ![snake gif](https://github.com/constantine30/constantine30/blob/output/github-contribution-grid-snake.svg)
 
